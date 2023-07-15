@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+   
+ }
+
+
+ .num {
+     width: 40px;
+color: #cf3b3b;
+border-color: #cf3b3b;
+border-radius: 5px;
+margin-top: 5px;
+text-align: center;
+font-weight: bold;
+height: 40px;
+font-size: 20px;
+ }
+ #start{
+ margin-top: 20px;
+width: 100px;
+height: 40px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color:#cf3b3b;
+border-color:  black;
+color: black;
+font-weight: bold;
+border-radius: 15px;
+ }
+ 
+ .tic {
+     margin-top: 150px;
+ }
+ h2{
+     color: white;
+ }
+ h4{
+     color: #cf3b3b;
+ }
